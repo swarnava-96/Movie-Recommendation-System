@@ -13,5 +13,6 @@ Here, I have created a simple Movies Recommendation System using
 
 ### 2. Recommender Systems with Python
 ```
-Here,  I have created a Recommender Systems with Python using Correlation techniques. I have used a sample of the movie lens dataset. 
+Here,  I have created a Recommender Systems with Python using Correlation techniques. 
+I have used a sample of the movie lens dataset. 
 ```
