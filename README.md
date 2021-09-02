@@ -16,3 +16,8 @@ Here, I have created a simple Movies Recommendation System using
 Here,  I have created a Recommender Systems with Python using Correlation techniques. 
 I have used a sample of the movie lens dataset. 
 ```
+### 3. Movie Recommendation System using Nearest Neighbors
+```
+Here, I have created a Movie Recommender System using Nearest Neighbor item based Collaborative Filtering on movie lens dataset.
+Here also I have taken a sample of the original dataset.
+```
