@@ -2,7 +2,8 @@
 
 Dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 ```
-Building a Basic Recommendation System using Weighted Hybrid Technique
+Building a Basic Recommendation System using Weighted Hybrid Technique-
+
 Here, I have created a simple Movies Recommendation System using 
 1. Weighted average votes of viewers
 2. Popularity of movies
