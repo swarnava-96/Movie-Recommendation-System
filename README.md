@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Recommendation-Systems
 ### 1. Weighted Hybrid Technique for Recommendation System
 #### Dataset: https://www.kaggle.com/tmdb/tmdb-movie-metadata
 ```
