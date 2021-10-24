@@ -22,4 +22,4 @@ Here, I have created a Movie Recommender System using Nearest Neighbor item base
 Here also I have taken a sample of the original dataset.
 ```
 ### 4. Recommender Engine in Retail Scenario
-``` Here I have used the concept of Market Basket Analysis for recommending products in Retail domain.```
+``` Here, I have used the concept of Market Basket Analysis for recommending products in Retail domain.```
